@@ -1,0 +1,4 @@
+# Seadform Ads
+asia.seadform.net
+server.seadform.net
+track.seadform.net
